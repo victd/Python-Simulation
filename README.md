@@ -18,4 +18,4 @@ Post Pandemic world
 Who is the condo's appointed CFO, legal
 Mechanical and electrical life expectancy and replacement for energy efficiency benefits
 Enbridge time of use savings
-Parking garages oil leak, water and road salts damage, proper ventilation underground
+Parking garages oil leak, water and road salts damage, proper ventilation underground, Parking P3, three-tiered underground challenges
