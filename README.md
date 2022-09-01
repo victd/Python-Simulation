@@ -7,6 +7,8 @@
 # Reports are built on the main screen canvas (desktop version of PowerBI) 
 Carbon neutral buildings
 Fluid dynamics, heat transfer, thermodynamics, centralized plumbing, hydro, fan coils
+# as you look down the list hvac and fan coils unit appear many times.  If the fan seizes up it causes climate control problems
+# in the summer if the blower stops, the coils stay cold and condensation drips down to the catch pan
 Mould moisture liabilities
 Cyber security in PropTech
 Legal issues with tenants or superintendent
