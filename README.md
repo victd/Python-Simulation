@@ -12,6 +12,8 @@ Fluid dynamics, heat transfer, thermodynamics, centralized plumbing, hydro, fan 
 # typically the basin is not clogged and should purge excess water, but there could also be leaks in the basin itself
 # kitchen faucets that wear out can also cause (slow) leak problems from the counter-top to under the counter shelf
 # to the floor below, also causing stains to the ceiling below
+# other issues include climate comfort.  Some older apartments have baseboard oil heating.  The heat radiated could cause 
+# excessive heat in the winter months.  Some apartments do not have air conditioning in the summer
 Mould moisture liabilities
 Cyber security in PropTech
 Legal issues with tenants or superintendent
