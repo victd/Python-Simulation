@@ -9,6 +9,9 @@ Carbon neutral buildings
 Fluid dynamics, heat transfer, thermodynamics, centralized plumbing, hydro, fan coils
 # as you look down the list hvac and fan coils unit appear many times.  If the fan seizes up it causes climate control problems
 # in the summer if the blower stops, the coils stay cold and condensation drips down to the catch pan
+# typically the basin is not clogged and should purge excess water, but there could also be leaks in the basin itself
+# kitchen faucets that wear out can also cause (slow) leak problems from the counter-top to under the counter shelf
+# to the floor below, also causing stains to the ceiling below
 Mould moisture liabilities
 Cyber security in PropTech
 Legal issues with tenants or superintendent
