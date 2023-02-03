@@ -29,3 +29,4 @@ Parking garages oil leak, water and road salts damage, proper ventilation underg
 Other items to simulate: the overall flow of waste, recycle, disposal items to incinerate for energy production.
 Going forward there would be a Circular Economy and more items and customers latching on the recycling and reusing or repurposing
 Several Property Management companies in the GTA are listed on the 4Rent monthly magazine
+Set up on Meraki dashboard
