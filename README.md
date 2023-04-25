@@ -14,7 +14,7 @@ Fluid dynamics, heat transfer, thermodynamics, centralized plumbing, hydro, fan 
 # to the floor below, also causing stains to the ceiling below
 # other issues include climate comfort.  Some older apartments have baseboard oil heating.  The heat radiated could cause 
 # excessive heat in the winter months.  Some apartments do not have air conditioning in the summer
-HVAC equipment failure simulation, set average warranty and lifespan of blower wheel rotational balance, blower motor (default GE sleeve shaft), valve motors
+HVAC equipment failure simulation, set average warranty and lifespan of blower wheel rotational balance, blower motor (default GE sleeve shaft), valve motor open and cutoff cold and hot water through the fan coil
 Mould moisture liabilities
 Cyber security in PropTech
 Legal issues with tenants or superintendent
