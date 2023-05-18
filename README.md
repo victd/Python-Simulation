@@ -14,6 +14,9 @@ Fluid dynamics, heat transfer, thermodynamics, centralized plumbing, hydro, fan 
 # to the floor below, also causing stains to the ceiling below
 # other issues include climate comfort.  Some older apartments have baseboard oil heating.  The heat radiated could cause 
 # excessive heat in the winter months.  Some apartments do not have air conditioning in the summer
+# they could be retro-fitted with window units or in-suite condensor with its purge piped to a window or balcony.
+# Note some apartment corporations have banned window units due to liabilities relating to break-ins at the ground level and hazardous drops from higher up units.
+# some corporations ban the use due to excessive hydro consumption.  Heating in the winter seasons is considered a necessity, whereas cooling in the summer is considered a luxury.
 HVAC equipment failure simulation, set average warranty and lifespan of blower wheel rotational balance, blower motor (default GE sleeve shaft)
 valve motor open and cutoff cold and hot water through the fan coil, filter changeout schedule per floor
 Mould moisture liabilities
