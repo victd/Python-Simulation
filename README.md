@@ -19,6 +19,7 @@ Fluid dynamics, heat transfer, thermodynamics, centralized plumbing, hydro, fan 
 # Falling units due to improper installation
 # some corporations ban the use due to excessive hydro consumption.  
 # Heating in the winter seasons is considered a necessity, whereas cooling in the summer is considered a luxury.
+# top 10 hot button BOMA issues
 HVAC equipment failure simulation, set average warranty and lifespan of blower wheel rotational balance, blower motor (default GE sleeve shaft)
 valve motor open and cutoff cold and hot water through the fan coil, filter changeout schedule per floor
 Mould moisture liabilities
