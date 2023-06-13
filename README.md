@@ -26,7 +26,7 @@ Mould moisture liabilities
 Cyber security in PropTech
 Legal issues with tenants or superintendent
 Reserve Fund issues
-Water damage - fan coil, toilet, kitchen
+Water damage - fan coil pan, toilet, kitchen sink
 Leasing challenges during pandemic
 Deferred repairs, or replacement: roofing
 Post Pandemic world
