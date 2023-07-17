@@ -30,7 +30,7 @@ Water damage - fan coil pan, toilet, kitchen sink
 Leasing challenges during pandemic
 Deferred repairs, or replacement: roofing
 Post Pandemic world
-Who is the condo's appointed CFO, legal
+Who is the condo's appointed CFO, legal, treasurer, board members
 Mechanical and electrical life expectancy and replacement for energy efficiency benefits
 Enbridge time of use savings
 Parking garages oil leak, water and road salts damage, proper ventilation underground, Parking P3, three-tiered underground challenges
