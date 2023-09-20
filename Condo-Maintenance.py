@@ -3,6 +3,7 @@
 # define the roles, activities
 # cardinality of agents
 # cardinality of average events
+# see attached simulation events
 
 import random
 
