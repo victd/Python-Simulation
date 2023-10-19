@@ -11,7 +11,7 @@ Fluid dynamics, heat transfer, thermodynamics, centralized plumbing, hydro, fan 
 # in the summer if the blower stops, the coils stay cold and condensation drips down to the catch pan
 # typically the basin is not clogged and should purge excess water, but there could also be leaks in the basin itself
 # kitchen faucets that wear out can also cause (slow) leak problems from the counter-top to under the counter shelf
-# to the floor below, also causing stains to the ceiling below
+# to the floor below, also causing stains to the ceiling below.  A nuisance for neighbors
 # other issues include climate comfort.  Some older apartments have baseboard oil heating.  The heat radiated could cause 
 # excessive heat in the winter months.  Some apartments do not have air conditioning in the summer
 # they could be retro-fitted with window units or in-suite condensor with its purge exhaust piped to a window or balcony.
