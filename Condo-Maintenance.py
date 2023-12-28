@@ -4,6 +4,7 @@
 # cardinality of agents
 # cardinality of average events
 # see attached simulation events
+# excel and python
 
 import random
 
